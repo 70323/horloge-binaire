@@ -51,15 +51,11 @@ Remarque : si on n'éteint pas la DEL (2,2), alors la DEL (2,4) s'allumera dans 
 Pour cette partie, j'ai utilisé une plaque d'essai/prototypage avec des bandes de cuivre auxquelles je peux souder des composants que je veux connecter ensemble. J'ai décidé d'utiliser des bandes séparées perpendiculaires aux autres pour les colonnes, alors que les lignes seraient connectées avec des câbles aux broches de l'Arduino.
 
 
-
 #### 5. Codage du microcontrolleur
 
-Le code du microcontrolleur est disponible dans les fichiers du projet
+Le code du microcontrolleur est disponible dans les fichiers du projet.
 
 #### 6. Boitier et dernières retouches
 
-### Ce que j'ai appris en réalisant ce projet
-
-### Approfondissements potentiels
 
 - 
